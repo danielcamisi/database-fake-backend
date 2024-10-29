@@ -1,0 +1,16 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server-auth db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}
