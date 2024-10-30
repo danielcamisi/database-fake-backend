@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "json-server-auth db.json"
+    "start": "json-server-auth --host 0.0.0.0 db.json"
   },
   "author": "",
   "license": "ISC",
